@@ -1,0 +1,22 @@
+export const questions = [
+  { id: 1, text: "What do or can you do for long periods without feeling tired?" },
+  { id: 2, text: "What would you do if you had millions in the bank and did not need to work?" },
+  { id: 3, text: "What do you do very well?" },
+  { id: 4, text: "What did you do the last time I helped someone?" },
+  { id: 5, text: "What bothers you?" },
+  { id: 6, text: "What are your strengths? / How would your friends describe your gifts or strengths?" },
+  { id: 7, text: "What makes you feel good about yourself?" },
+  { id: 8, text: "What comes easily to you?" },
+  { id: 9, text: "What do people say about you that makes you feel accomplished or gives you a sense of personal mastery?" },
+  { id: 10, text: "What aspects of your work feel really meaningful to you?" },
+  { id: 11, text: "What do you REALLY LIKE about your current job (or previous jobs if you are between roles)? Include things like social aspects, location etc if they are important to you." },
+  { id: 12, text: "Thinking about your current role (or previous jobs if you are between roles) - what would you like to do MORE of? LESS of?" },
+  { id: 13, text: "What's MISSING in your life, the presence of which would make your life more fulfilling?" },
+  { id: 14, text: "What activities that you do at present have heart and meaning for you?" },
+  { id: 15, text: "What are you most proud of professionally?" },
+  { id: 16, text: "What have been your biggest disappointments or regrets in life so far?" },
+  { id: 17, text: "How would you describe your satisfaction with your life direction so far? (0 = no satisfaction, 10 = life could not get any better) Why?" },
+  { id: 18, text: "Which THREE WORDS best describe how you FEEL ABOUT YOUR CAREER at this moment?" },
+  { id: 19, text: "Which THREE WORDS describe you AT YOUR BEST?" },
+  { id: 20, text: "Which THREE WORDS describe you AT YOUR WORST?" }
+];
